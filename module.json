@@ -33,9 +33,9 @@
       "contributions": "compendium content"
     }
   ],
-  "url": "https://github.com/aantia/alexs-arm5e-compendia",
-  "manifest": "https://raw.githubusercontent.com/aantia/alexs-arm5e-compendia/main/module.json",
-  "download": "https://github.com/aantia/alexs-arm5e-compendia/archive/main.zip",
+  "url": "https://github.com/aantia/arm5e-compendia-aantia",
+  "manifest": "https://raw.githubusercontent.com/aantia/arm5e-compendia-aantia/main/module.json",
+  "download": "https://github.com/aantia/arm5e-compendia-aantia/archive/main.zip",
   "media": [
     {
       "type": "setup",
