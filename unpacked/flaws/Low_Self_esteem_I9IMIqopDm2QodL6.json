@@ -1,0 +1,40 @@
+{
+  "name": "Low Self-esteem",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have a deflated opinion of your own self worth. You begin the game with no Confidence Score, and never have any Confidence Points.",
+    "source": "ArM5",
+    "page": 55,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "low-self-esteem"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751596,
+    "modifiedTime": 1696141994723,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "I9IMIqopDm2QodL6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!I9IMIqopDm2QodL6"
+}

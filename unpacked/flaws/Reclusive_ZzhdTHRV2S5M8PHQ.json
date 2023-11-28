@@ -1,0 +1,40 @@
+{
+  "name": "Reclusive",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You do not like being disturbed or interrupted. You feel that an intrusion by another upon your time is unnecessary at best, and an insult at worst. You are very reluctant to be dragged into public places, or group activities, and generally complain when you must participate. Note that this is often a bad Flaw for a player character, unless there is a good reason why that character needs to stay out of play most of the time (for example, he is played by the alpha storyguide).",
+    "source": "ArM5",
+    "page": 58,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "reclusive"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751542,
+    "modifiedTime": 1696141995027,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "ZzhdTHRV2S5M8PHQ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!ZzhdTHRV2S5M8PHQ"
+}

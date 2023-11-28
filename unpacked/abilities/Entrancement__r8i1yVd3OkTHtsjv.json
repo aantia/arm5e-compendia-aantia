@@ -1,0 +1,42 @@
+{
+  "name": "Entrancement*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/entrancement.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have the power to control anothers will. By staring deeply into someones eyes for several seconds — generally impossible in combat — you can verbally command the person to perform a certain task. Roll Presence + Entrancement against the targets Stamina roll. The person being controlled may get a bonus to resist at the option of the storyguide, according to the table below. Hermetic magi get their normal Mentem Magic Resistance, and get the normal Stamina roll if the effect penetrates. The blind, and people with their eyes closed, are immune; see page 111 for more guidelines on making eye contact. However, it is not possible to look away while being Entranced unless you win the opposed roll. Victims Command  Example  Bonus Innocuous  Talk to me  +3 Questionable  Meet me alone at night +6 Dangerous  Put your weapons away +9 Heinous  Kill your fellows  +12 Suicidal  Jump off a cliff  +15 \nSpecialties: A specific sort of command, a specific sort of person. (Supernatural)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "entrancement",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "entrancement"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751897,
+    "modifiedTime": 1696140814966,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ZbCET9zUtDWzYD5z",
+  "_id": "r8i1yVd3OkTHtsjv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!r8i1yVd3OkTHtsjv"
+}

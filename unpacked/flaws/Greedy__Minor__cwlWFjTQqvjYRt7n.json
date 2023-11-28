@@ -1,0 +1,40 @@
+{
+  "name": "Greedy (Minor)",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You like to eat and drink, and do so to excess whenever given the chance. You are probably fat, but may not be if you rarely have the chance to indulge.",
+    "source": "ArM5",
+    "page": 54,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "greedy-minor"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751575,
+    "modifiedTime": 1696141995065,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "cwlWFjTQqvjYRt7n",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!cwlWFjTQqvjYRt7n"
+}

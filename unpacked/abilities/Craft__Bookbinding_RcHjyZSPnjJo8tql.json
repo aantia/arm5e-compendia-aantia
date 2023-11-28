@@ -1,0 +1,42 @@
+{
+  "name": "Craft: Bookbinding",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/craft.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_2vp6z8wkvgl",
+      "path": "Abilities#/CF_SEP/General, Crafts",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "craft",
+    "option": "Bookbinding",
+    "realm": "magic",
+    "indexKey": "craft-bookbinding"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751893,
+    "modifiedTime": 1696140814749,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "RcHjyZSPnjJo8tql",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!RcHjyZSPnjJo8tql"
+}

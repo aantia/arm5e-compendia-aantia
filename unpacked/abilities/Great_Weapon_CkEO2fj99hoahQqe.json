@@ -1,0 +1,42 @@
+{
+  "name": "Great Weapon",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/greatWeapon.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_7d6ngxdzyst",
+      "path": "Abilities#/CF_SEP/Martial",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Fighting with a weapon which requires two hands to use. \nSpecialties: any one weapon. (Martial)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "dex",
+    "speciality": "",
+    "xp": 0,
+    "key": "greatWeapon",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "great-weapon"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751879,
+    "modifiedTime": 1696140814626,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Uh7ZiHdsWW2PjSJl",
+  "_id": "CkEO2fj99hoahQqe",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!CkEO2fj99hoahQqe"
+}

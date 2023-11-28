@@ -1,0 +1,40 @@
+{
+  "name": "Self-confident",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/generalVirtue.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_qajjxhee95m",
+      "path": "Virtues#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have firm confidence in your own abilities, and have a Confidence Score of two. You also start with five Confidence Points, rather than the usual three. (See page 19 for Confidence rules.)",
+    "source": "ArM5",
+    "page": 48,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "self-confident"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751335,
+    "modifiedTime": 1696141996324,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "jegZHVtv21smauPD",
+  "_id": "zIdsubgVSir0JHsr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!zIdsubgVSir0JHsr"
+}

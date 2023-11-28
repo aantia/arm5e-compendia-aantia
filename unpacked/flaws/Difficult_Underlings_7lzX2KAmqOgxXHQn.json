@@ -1,0 +1,40 @@
+{
+  "name": "Difficult Underlings",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You may only take this Story Hook if your character has, and will keep, underlings of some sort or another. No matter how many people you fire, or how carefully you vet new candidates, your underlings always cause problems for you. The nature of the problems may change, but you are repeatedly drawn into dealing with the trouble they have caused. If other people give the same underlings orders, they have no problem. Its not them, its you.",
+    "source": "ArM5",
+    "page": 53,
+    "type": "story",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "difficult-underlings"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751614,
+    "modifiedTime": 1696141994546,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "HvyHCuxjJNI5yJoA",
+  "_id": "7lzX2KAmqOgxXHQn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!7lzX2KAmqOgxXHQn"
+}

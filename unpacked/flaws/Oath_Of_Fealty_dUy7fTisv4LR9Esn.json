@@ -1,0 +1,40 @@
+{
+  "name": "Oath Of Fealty",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have sworn an oath of loyalty and support to someone outside the covenant, and sometimes they call on you to uphold your vow. Magi are forbidden from taking Oaths of Fealty by the Hermetic Code. Some don’t let that stop them.",
+    "source": "ArM5",
+    "page": 56,
+    "type": "story",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "oath-of-fealty"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751497,
+    "modifiedTime": 1696141995079,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "HvyHCuxjJNI5yJoA",
+  "_id": "dUy7fTisv4LR9Esn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!dUy7fTisv4LR9Esn"
+}

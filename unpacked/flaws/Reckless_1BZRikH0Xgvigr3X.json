@@ -1,0 +1,40 @@
+{
+  "name": "Reckless",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You tend not to notice that situations are threatening. You start with a Personality Trait of Reckless +3, and can never have a positive Personality Trait reflecting care or patience. Whenever the storyguide deems it necessary for you to check bravery or a similar Personality Trait, make a roll against your Reckless score instead. A success means you do not realize your danger, and can act immediately without further checks. 58",
+    "source": "ArM5",
+    "page": 58,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "reckless"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751510,
+    "modifiedTime": 1696141994339,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "1BZRikH0Xgvigr3X",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!1BZRikH0Xgvigr3X"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Free Expression",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/generalVirtue.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_qajjxhee95m",
+      "path": "Virtues#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 42,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "free-expression",
+    "description": "You have the imagination and creativity needed to compose a new ballad or to paint an original picture, and have the potential to be a great artist. You get a +3 bonus on all rolls to create a new work of art."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751328,
+    "modifiedTime": 1696141995851,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "jegZHVtv21smauPD",
+  "_id": "GoWxfOYA2B7pBtwl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!GoWxfOYA2B7pBtwl"
+}

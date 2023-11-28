@@ -1,0 +1,40 @@
+{
+  "name": "Careless Sorcerer",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are slapdash in your use of magical power, and must roll two more botch dice more than normal when casting spells. Note that if you would normally roll no botch dice, you still roll none.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "careless-sorcerer"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751508,
+    "modifiedTime": 1696141995262,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "8FTSMAxaThguRoxc",
+  "_id": "kwHsWxXPZ4lsAqXt",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!kwHsWxXPZ4lsAqXt"
+}

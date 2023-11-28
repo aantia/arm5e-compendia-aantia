@@ -1,0 +1,42 @@
+{
+  "name": "Craft: (Type)",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/craft.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_2vp6z8wkvgl",
+      "path": "Abilities#/CF_SEP/General, Crafts",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "A general term for countless Abilities, all dealing with handiwork of some type. In general, Craft Abilities are distinguished by the material they work with, although you may also take a Craft Ability that allows the character to work with several materials in one specific way. You may purchase Craft more than once, choosing a different one each time. Skill in one Craft does not imply skill in any others. Specialties: as appropriate to the craft. (General)",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "dex",
+    "speciality": "",
+    "xp": 0,
+    "key": "craft",
+    "option": "craft",
+    "realm": "magic",
+    "indexKey": "craft-generic"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751900,
+    "modifiedTime": 1696141114142,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "BLiSEiVpJofeHSDq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!BLiSEiVpJofeHSDq"
+}

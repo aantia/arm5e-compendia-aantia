@@ -1,0 +1,40 @@
+{
+  "name": "Blind",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have little or no sight. Using missile weapons is futile, reading is impossible, and navigation in unknown territory is difficult to say the least. Blind magi can detect targets by other senses, and thus are less limited than people trying to use missile weapons. However, blind magi cannot aim spells without magical aid.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "blind"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751599,
+    "modifiedTime": 1696141995429,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "q7FmeqhlLesjPF2V",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!q7FmeqhlLesjPF2V"
+}

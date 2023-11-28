@@ -1,0 +1,40 @@
+{
+  "name": "Enemies",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Someone is causing trouble for you, such as a local baron or bishop, a band of outlaws, or a really nasty innkeeper. The enemy must be powerful enough to endanger you — this is best agreed on with the storyguide and the rest of the troupe.",
+    "source": "ArM5",
+    "page": 53,
+    "type": "story",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "enemies"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751513,
+    "modifiedTime": 1696141995349,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "HvyHCuxjJNI5yJoA",
+  "_id": "nVk0h09fmOcZVfok",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!nVk0h09fmOcZVfok"
+}

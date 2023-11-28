@@ -1,0 +1,40 @@
+{
+  "name": "Poor",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are a poor member of your social class. You must work three seasons per year in order to make ends meet, and can afford only the necessities of life, as measured by your status. This also means that you have one fewer season available for any form of advancement other than exposure, which is a major hindrance. You cannot take this Flaw if you are supported by the covenant. In particular, this Flaw is not available to magi.",
+    "source": "ArM5",
+    "page": 58,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "poor"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751545,
+    "modifiedTime": 1696141994776,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "JTAGKI9a7v8YBsio",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!JTAGKI9a7v8YBsio"
+}

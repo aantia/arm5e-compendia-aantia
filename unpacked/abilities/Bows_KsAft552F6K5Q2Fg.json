@@ -1,0 +1,42 @@
+{
+  "name": "Bows",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/bows.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_7d6ngxdzyst",
+      "path": "Abilities#/CF_SEP/Martial",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Using bows and arrows. \nSpecialties: any one weapon. (Martial)",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "per",
+    "speciality": "",
+    "xp": 0,
+    "key": "bows",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "bows"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751923,
+    "modifiedTime": 1696140814693,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Uh7ZiHdsWW2PjSJl",
+  "_id": "KsAft552F6K5Q2Fg",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!KsAft552F6K5Q2Fg"
+}

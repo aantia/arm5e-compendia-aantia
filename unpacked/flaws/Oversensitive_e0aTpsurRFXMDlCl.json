@@ -1,0 +1,40 @@
+{
+  "name": "Oversensitive",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Something \tthat \tothers \tfind \tmerely unpleasant you consider intolerable. Examples might include an oversensitivity to disrespect, to slovenliness, or to impiety. If you are the violent type, you may start fights with those who offend you.",
+    "source": "ArM5",
+    "page": 57,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "oversensitive"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751507,
+    "modifiedTime": 1696141995096,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "e0aTpsurRFXMDlCl",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!e0aTpsurRFXMDlCl"
+}

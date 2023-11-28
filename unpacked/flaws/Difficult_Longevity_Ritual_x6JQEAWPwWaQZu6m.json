@@ -1,0 +1,40 @@
+{
+  "name": "Difficult Longevity Ritual",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Something in your magical nature makes it difficult to create an effective Longevity Ritual for you. Anyone (including yourself) creating a Longevity Ritual for you must halve their Lab Total. You may create Longevity Rituals for others without penalty.",
+    "source": "ArM5",
+    "page": 53,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "difficult-longevity-ritual"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751569,
+    "modifiedTime": 1696141995545,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "MY0pk5xRqPANrebl",
+  "_id": "x6JQEAWPwWaQZu6m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!x6JQEAWPwWaQZu6m"
+}

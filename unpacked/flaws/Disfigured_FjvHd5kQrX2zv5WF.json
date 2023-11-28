@@ -1,0 +1,40 @@
+{
+  "name": "Disfigured",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "A visible disfigurement makes you ugly and easy to recognize. Presence rolls that involve good looks and gaining respect from most people are at –3. You probably have a cruel nickname that refers to your unfortunate appearance. You might have a large, visible burn scar, or an enlarged and deformed eye (an “evil eye”), or even be albino. 53",
+    "source": "ArM5",
+    "page": 53,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "disfigured"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751576,
+    "modifiedTime": 1696141994690,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "FjvHd5kQrX2zv5WF",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!FjvHd5kQrX2zv5WF"
+}

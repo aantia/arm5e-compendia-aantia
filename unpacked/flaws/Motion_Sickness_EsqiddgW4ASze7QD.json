@@ -1,0 +1,40 @@
+{
+  "name": "Motion Sickness",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Riding a horse, in a cart, or sailing on a ship makes you violently ill. When not traveling on foot, you suffer double the fatigue loss on long journeys specified on page 185, with a minimum loss of two Fatigue levels. Violent jostling over a period of a few hours could conceivably lead to unconsciousness.",
+    "source": "ArM5",
+    "page": 56,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "motion-sickness"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751556,
+    "modifiedTime": 1696141994673,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "EsqiddgW4ASze7QD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!EsqiddgW4ASze7QD"
+}

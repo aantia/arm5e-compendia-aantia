@@ -1,0 +1,42 @@
+{
+  "name": "Craft: Glassworking",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/craft.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_2vp6z8wkvgl",
+      "path": "Abilities#/CF_SEP/General, Crafts",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "dex",
+    "speciality": "",
+    "xp": 0,
+    "key": "craft",
+    "option": "Glassworking",
+    "realm": "magic",
+    "indexKey": "craft-glassworking"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751857,
+    "modifiedTime": 1696140814638,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "EoNwGKFtAgm6QYD4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!EoNwGKFtAgm6QYD4"
+}

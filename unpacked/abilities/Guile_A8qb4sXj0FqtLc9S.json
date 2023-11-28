@@ -1,0 +1,42 @@
+{
+  "name": "Guile",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/guile.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_buj82p3vtnu",
+      "path": "Abilities#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Telling convincing lies, as well as feigning emotion, belief, or frame of mind. If you understand the person you are attempting to deceive 65 (roll 9+ on Perception + Folk Ken), you gain a bonus of +1 to your Guile roll. This Ability also covers disguising yourself, and pretending to be something you are not. It is often an opposed roll, against the victims Perception + Folk Ken or, for disguise, Perception + Awareness. \nSpecialties:  particular sorts of deception, lying to authority, fast talk, elaborate lies. (General)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "com",
+    "speciality": "",
+    "xp": 0,
+    "key": "guile",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "guile"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751877,
+    "modifiedTime": 1696140814603,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "A8qb4sXj0FqtLc9S",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!A8qb4sXj0FqtLc9S"
+}

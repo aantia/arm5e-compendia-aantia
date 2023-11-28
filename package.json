@@ -1,0 +1,33 @@
+{
+  "name": "arm5e-compendia-aantia",
+  "description": "Reference and template for personal shared compendia used with the Ars Magica 5th Edition system for Foundry VTT",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.0-rc.4",
+    "prettier": "^3.0.3"
+  },
+  "scripts": {
+    "pack": "node scripts/pack.js",
+    "unpack": "node scripts/unpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aantia/alexs-arm5e-compendia.git"
+  },
+  "keywords": [
+    "arm5e",
+    "FoundryVTT"
+  ],
+  "author": "Xzotl",
+  "contributors": [{
+    "name": "aantia",
+    "email": "agjantia@gmail.com"
+  }],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aantia/alexs-arm5e-compendia/issues"
+  },
+  "homepage": "https://github.com/aantia/alexs-arm5e-compendia#readme"
+}

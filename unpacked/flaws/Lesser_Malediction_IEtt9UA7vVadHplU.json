@@ -1,0 +1,40 @@
+{
+  "name": "Lesser Malediction",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_xc1hyhkw51",
+      "path": "Flaws#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have been cursed by some supernatural power. The effects of the curse should be about as bad as other Minor General Flaws. 55",
+    "source": "ArM5",
+    "page": 55,
+    "type": "supernatural",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "lesser-malediction"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751593,
+    "modifiedTime": 1696141994743,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "FxRILmyYavwmreBA",
+  "_id": "IEtt9UA7vVadHplU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!IEtt9UA7vVadHplU"
+}

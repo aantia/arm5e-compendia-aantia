@@ -1,0 +1,42 @@
+{
+  "name": "Medicine*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/medicine.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_5d6v8nsyfy",
+      "path": "Abilities#/CF_SEP/Academic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Medicine is the formal study of the body and its diseases. Medical practice is based on the theory of the four humors: blood, phlegm, yellow bile, and black bile. Diseases are believed to be caused by imbalances among them, hence such practices as bloodletting, to restore the balance. Medicine also deals with treating poisons and the results of starvation and the like, but not with treating wounds (see “Chirurgy,” above). The authorities are Galen and Hippocrates, in many works. \nSpecialties: anatomy, apothecary, physician. (Academic)",
+    "source": "ArM5",
+    "page": 66,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "medicine",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "medicine"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.19",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751916,
+    "modifiedTime": 1696597048288,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "RFwx3qCrd6CJ4GDo",
+  "_id": "xww0Cs8dYQi4Kk5A",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!xww0Cs8dYQi4Kk5A"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Faerie Magic",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 42,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "faerie-magic",
+    "description": "You have been initiated into the Outer Mystery of Faerie Magic (see page 92), and thus are a member of House Merinita. Note that all Merinita magi gain this Virtue for free at character generation."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751220,
+    "modifiedTime": 1696141995777,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "C8jqPqfblXk6hGCE",
+  "_id": "8y4OOthAxa00eMC2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!8y4OOthAxa00eMC2"
+}

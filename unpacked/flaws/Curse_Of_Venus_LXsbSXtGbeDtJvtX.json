@@ -1,0 +1,40 @@
+{
+  "name": "Curse Of Venus",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are very attractive to people whom you do not wish to attract. People you detest keep getting crushes on you, and will not be dissuaded. Furthermore, you tend to fall in love with inappropriate people, and in inappropriate circumstances. Those people you are interested in tend to think you are vain and shallow.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "story",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "curse-of-venus"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751639,
+    "modifiedTime": 1696141994822,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "HvyHCuxjJNI5yJoA",
+  "_id": "LXsbSXtGbeDtJvtX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!LXsbSXtGbeDtJvtX"
+}

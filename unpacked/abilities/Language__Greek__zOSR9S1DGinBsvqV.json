@@ -1,0 +1,42 @@
+{
+  "name": "Language: Greek*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/deadLanguage.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_097jrlmaqjp7",
+      "path": "Abilities#/CF_SEP/Academic, Languages",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "com",
+    "speciality": "",
+    "xp": 0,
+    "key": "deadLanguage",
+    "option": "Greek",
+    "realm": "magic",
+    "indexKey": "language-latin"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.19",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751850,
+    "modifiedTime": 1696597055400,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "RFwx3qCrd6CJ4GDo",
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_id": "zOSR9S1DGinBsvqV",
+  "sort": 0,
+  "_key": "!items!zOSR9S1DGinBsvqV"
+}

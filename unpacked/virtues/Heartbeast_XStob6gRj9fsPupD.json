@@ -1,0 +1,40 @@
+{
+  "name": "Heartbeast",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 43,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "heartbeast",
+    "description": "You have been initiated into the Outer Mystery of the Heartbeast (see page 91), and thus are a member of House Bjornaer. Note that all Bjornaer magi gain this Virtue for free at character creation."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751266,
+    "modifiedTime": 1696141996013,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "C8jqPqfblXk6hGCE",
+  "_id": "XStob6gRj9fsPupD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!XStob6gRj9fsPupD"
+}

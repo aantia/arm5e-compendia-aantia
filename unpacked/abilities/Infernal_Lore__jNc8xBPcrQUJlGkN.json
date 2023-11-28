@@ -1,0 +1,42 @@
+{
+  "name": "Infernal Lore*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/infernalLore.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_7bwhgya3q6x",
+      "path": "Abilities#/CF_SEP/Arcane",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "An understanding and familiarity with the sinister side of the world, primarily the Infernal and its agents. Includes knowledge of demons and their habits and weaknesses, undead and their habits and weaknesses, and the power of curses. \nSpecialties: demons, undead, curses. (Arcane)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "infernalLore",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "infernal-lore"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751876,
+    "modifiedTime": 1696140814861,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Ku86xoVh78FXIgLr",
+  "_id": "jNc8xBPcrQUJlGkN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!jNc8xBPcrQUJlGkN"
+}

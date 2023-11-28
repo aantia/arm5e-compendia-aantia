@@ -1,0 +1,40 @@
+{
+  "name": "Short-ranged Magic",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Halve your Casting Totals whenever you are not touching the target of the spell. Halve your Lab Total when designing an effect or spell that has a range greater than Touch.",
+    "source": "ArM5",
+    "page": 58,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "short-ranged-magic"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751530,
+    "modifiedTime": 1696141995209,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "MY0pk5xRqPANrebl",
+  "_id": "kFdWnjS4lnxYIcWU",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!kFdWnjS4lnxYIcWU"
+}

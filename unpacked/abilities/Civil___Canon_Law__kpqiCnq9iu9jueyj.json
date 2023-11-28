@@ -1,0 +1,42 @@
+{
+  "name": "Civil & Canon Law*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/law.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_5d6v8nsyfy",
+      "path": "Abilities#/CF_SEP/Academic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Civil Law is the law of the Roman Empire. Most local legal systems are based upon it (England being the notable exception), and when a law is needed to govern international relations, Civil Law is appealed to. The authority is Justinians Digest. Canon Law is the law of the Church. It is important to Mythic Europe as it applies in all nations, governing the working of the church and some other areas, such as marriage. It is important to note that members of the clergy are only subject to Canon Law, not customary or Civil Law. Most high churchmen are skilled canonists, not theologians. Canon Law is made by Papal bulls (pronouncements), but the authority is Gratian, in his Decretum. This skill covers the knowledge of both types of law. Other religions, particularly Judaism and Islam, have their own versions of this Ability, which must be learned separately. Specialties: laws and customs of a specific area, papal laws. (Academic)",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "law",
+    "option": "CivilAndCanon",
+    "realm": "magic",
+    "indexKey": "civil-canon-law"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.19",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751860,
+    "modifiedTime": 1696597048288,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "RFwx3qCrd6CJ4GDo",
+  "_id": "kpqiCnq9iu9jueyj",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!kpqiCnq9iu9jueyj"
+}

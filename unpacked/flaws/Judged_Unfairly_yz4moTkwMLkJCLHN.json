@@ -1,0 +1,40 @@
+{
+  "name": "Judged Unfairly",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Somehow you come across the wrong way to people, and they universally distrust and underestimate you. You catch no ones eye, impress no one, and can get no one to take you seriously. If you ever find an exceptional someone who sees you as you want to be seen, you will cling to that person.",
+    "source": "ArM5",
+    "page": 55,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "judged-unfairly"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751539,
+    "modifiedTime": 1696141995582,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "yz4moTkwMLkJCLHN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!yz4moTkwMLkJCLHN"
+}

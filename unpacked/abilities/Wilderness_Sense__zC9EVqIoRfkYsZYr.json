@@ -1,0 +1,42 @@
+{
+  "name": "Wilderness Sense*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/wildernessSense.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are mystically attuned to the ways of the wilderness. A Perception + Wilderness Sense roll against an Ease Factor of 9 lets you determine the direction of north, the upcoming weather, or the presence of natural hazards or resources. One roll will only reveal one piece of information. \nSpecialties: direction, weather, hazards, resources. (Supernatural)",
+    "source": "ArM5",
+    "page": 67,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "wildernessSense",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "wilderness-sense"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751926,
+    "modifiedTime": 1696140815011,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ZbCET9zUtDWzYD5z",
+  "_id": "zC9EVqIoRfkYsZYr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!zC9EVqIoRfkYsZYr"
+}

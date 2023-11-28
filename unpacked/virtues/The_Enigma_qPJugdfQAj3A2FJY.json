@@ -1,0 +1,40 @@
+{
+  "name": "The Enigma",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 41,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "the-enigma",
+    "description": "You have been initiated into the Outer Mystery of The Enigma (see page 92), and thus are a member of House Criamon. Note that all Criamon magi get this Virtue free at character creation."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751261,
+    "modifiedTime": 1696141996212,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "C8jqPqfblXk6hGCE",
+  "_id": "qPJugdfQAj3A2FJY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!qPJugdfQAj3A2FJY"
+}

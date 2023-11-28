@@ -1,0 +1,40 @@
+{
+  "name": "Social Contacts",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/generalVirtue.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_qajjxhee95m",
+      "path": "Virtues#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 49,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "social-contacts",
+    "description": "You have a broad range of acquaintances in a specific social circle (specified when this Virtue is purchased), accumulated over years of travel and socializing. Almost everywhere you Study Bonus Examples Art Score\tMinimum Presence of Art 0\tA candle flame (Ignem), a magic aura (Vim), a dying insect (Perdo) 5\tA pond (Aquam), a painting (Imaginem), a caterpillar and butterfly (Muto) 10\tA breezy place in the open air (Auram), a live animal at least the size of a cat (Animal), half a dozen plants at different stages of growth (Creo) 15\tAn area of bare natural rock, such as a mountainside (Terram), a human corpse to dissect (Corpus), at least one book on each of a dozen mundane subjects (Intellego) 20\tIn a forest (Herbam), at a gathering of scholars (Mentem), at a law court (Rego) 25\tIn a boat on a large body of water (Aquam), in a strong (6+) magic aura (Vim), in a hospital full of people dying of pestilence (Perdo) 30\tIn the middle of a large fire (Ignem), in a building covered with elabo rate figured decoration in many media, where music is constantly played (Imaginem), in the presence of a magical shapeshifter whose transformations you can control (Muto). 35\tFlying in the middle of a hurricane (Auram), while dissecting several magical animals (Animal), while surrounded by scrying devices showing every detail of the country for miles around (Intellego) go, you meet someone you know, or can get in touch with someone who can help you. Whenever you are somewhere new, you can contact someone on a simple Presence roll against an Ease Factor of 6. The storyguide may modify this target number upward for very small areas or areas where it is extremely unlikely that you would know someone. You may purchase this Virtue more than once, each time specifying a different social group."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751326,
+    "modifiedTime": 1696141996083,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "jegZHVtv21smauPD",
+  "_id": "cajUqfjTHy0FXvdO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!cajUqfjTHy0FXvdO"
+}

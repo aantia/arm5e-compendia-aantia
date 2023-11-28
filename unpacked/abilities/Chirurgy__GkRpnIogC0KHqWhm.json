@@ -1,0 +1,42 @@
+{
+  "name": "Chirurgy*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/chirurgy.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_buj82p3vtnu",
+      "path": "Abilities#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "This is Middle Ages-style surgery, used to help others recover from physical damage. It encompasses tending and binding wounds of all varieties, and the necessary but brutal skill of cauterization. See “Wounds” starting on page 178 for rules. Specialties: cauterization, diagnosis, binding wounds, setting bones. (General)",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "dex",
+    "speciality": "",
+    "xp": 0,
+    "key": "chirurgy",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "chirurgy"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751902,
+    "modifiedTime": 1696174814059,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "GkRpnIogC0KHqWhm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!GkRpnIogC0KHqWhm"
+}

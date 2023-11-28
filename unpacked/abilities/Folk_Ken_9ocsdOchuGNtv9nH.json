@@ -1,0 +1,42 @@
+{
+  "name": "Folk Ken",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/folkKen.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_buj82p3vtnu",
+      "path": "Abilities#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Understanding the background, personal ity, and motives of another person. Often the storyguide secretly rolls a die when this Ability is used. Thus, you do not know if your character guessed correctly, or even botched. \nSpecialties: peasants, townsfolk, nobles, clergy, magi, the opposite sex. (General)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "com",
+    "speciality": "",
+    "xp": 0,
+    "key": "folkKen",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "folk-ken"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751885,
+    "modifiedTime": 1696140814597,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "9ocsdOchuGNtv9nH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!9ocsdOchuGNtv9nH"
+}

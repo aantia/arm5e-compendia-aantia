@@ -1,0 +1,40 @@
+{
+  "name": "Weak Characteristics",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have three fewer points to spend buy ing Characteristics than most characters. You may take this Flaw twice, leaving you with only one point to spend.",
+    "source": "ArM5",
+    "page": 61,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "weak-characteristics"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751601,
+    "modifiedTime": 1696141994658,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "EmkMJ7Z8xkyxJE4k",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!EmkMJ7Z8xkyxJE4k"
+}

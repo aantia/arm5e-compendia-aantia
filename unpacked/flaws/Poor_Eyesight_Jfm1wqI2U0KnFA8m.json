@@ -1,0 +1,40 @@
+{
+  "name": "Poor Eyesight",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Bleary vision impedes your performance. Rolls involving sight, including rolls to attack and defend, are at –3. New environments are disorienting and perhaps frightening for you. This Flaw can be combined with Missing Eye (above), but the penalties are cumulative.",
+    "source": "ArM5",
+    "page": 58,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "poor-eyesight"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751567,
+    "modifiedTime": 1696141994781,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "Jfm1wqI2U0KnFA8m",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!Jfm1wqI2U0KnFA8m"
+}

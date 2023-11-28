@@ -1,0 +1,40 @@
+{
+  "name": "Close Family Ties",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Your family is one of the most important things in your life, and still supports and aids you whenever possible, even at personal risk. Family members do not hesitate to do you any favor that is within their power, and can call on their friends and neighbors to help you. It works both ways, however; your family may require help from you some day.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "story",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "close-family-ties"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751575,
+    "modifiedTime": 1696141995044,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "w0VVgqRCx0opq0TL",
+  "_id": "auUHRF64J1UTEk36",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!auUHRF64J1UTEk36"
+}

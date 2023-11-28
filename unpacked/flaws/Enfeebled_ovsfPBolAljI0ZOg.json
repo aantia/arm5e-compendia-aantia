@@ -1,0 +1,40 @@
+{
+  "name": "Enfeebled",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You cannot exert yourself for longer than a few seconds. Any need for rapid movement, such as combat or a chase, leaves you helpless. Long hikes are likewise beyond your capability. You are unable to learn Martial Abilities or any other skills involving physical exertion, since you cannot train in them. If you are a magus, you lose double the normal number of Fatigue levels from casting spells, but you may carry out laboratory activities as normal.",
+    "source": "ArM5",
+    "page": 53,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "enfeebled"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751557,
+    "modifiedTime": 1696141995406,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "ovsfPBolAljI0ZOg",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!ovsfPBolAljI0ZOg"
+}

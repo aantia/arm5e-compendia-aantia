@@ -1,0 +1,83 @@
+{
+  "name": "Unimaginative Learner",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [
+    {
+      "origin": "Item.XfALWkqBC4vvXu4H",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [
+        {
+          "mode": 2,
+          "key": "system.bonuses.activities.visStudy",
+          "value": "-3",
+          "priority": null
+        }
+      ],
+      "flags": {
+        "arm5e": {
+          "type": [
+            "activities"
+          ],
+          "subtype": [
+            "visStudy"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "Uniaginative learner",
+      "icon": "icons/svg/aura.svg",
+      "_id": "hFSBNsrS85NyJu9U",
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "_key": "!items.effects!XfALWkqBC4vvXu4H.hFSBNsrS85NyJu9U"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have trouble figuring things out for yourself. Subtract three from rolls when you study from raw vis. 60",
+    "source": "ArM5",
+    "page": 60,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "unimaginative-learner"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751637,
+    "modifiedTime": 1696141994976,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "8FTSMAxaThguRoxc",
+  "_id": "XfALWkqBC4vvXu4H",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!XfALWkqBC4vvXu4H"
+}

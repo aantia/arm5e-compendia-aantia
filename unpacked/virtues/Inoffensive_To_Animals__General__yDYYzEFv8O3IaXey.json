@@ -1,0 +1,40 @@
+{
+  "name": "Inoffensive To Animals (General)",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/generalVirtue.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_qajjxhee95m",
+      "path": "Virtues#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Your Gift does not bother animals, although it still has the normal effects on people. Animals with a Might score might react either way, depending on the animal. As a rule, if the animal reacts positively to The Gift most of the time, it reacts positively to you because you do have The Gift. If it reacts negatively, this Virtue over-rides it. UnGifted characters may take this Virtue if they have the Flaw Magical Air (page 56).",
+    "source": "ArM5",
+    "page": 43,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "inoffensive-to-animals-general"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751277,
+    "modifiedTime": 1696141996318,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "jegZHVtv21smauPD",
+  "_id": "yDYYzEFv8O3IaXey",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!yDYYzEFv8O3IaXey"
+}

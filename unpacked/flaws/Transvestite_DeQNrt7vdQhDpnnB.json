@@ -1,0 +1,33 @@
+{
+  "folder": "hXfkbCsUoxlA0bSB",
+  "name": "Transvestite",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "system": {
+    "description": "You dress and act as a member of the opposite gender, and expect to be treated as such. Note that this is not a delusion — you know what your physical gender is, but choose to live as the other gender. In Christian and Muslim lands you are regarded as a freak, and are often shunned, laughed at, or even chased out of town. However, these problems will only arise if others realize you are not a member of the gender you are living as. Because of your long experience living as a member of your chosen gender, attempting to live as a member of your physical gender will result in a –3 to all social skill rolls for as long as the character attempts to live as this gender.",
+    "source": "ArM5",
+    "page": 59,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "transvestite"
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1693405206499,
+    "modifiedTime": 1696141994635,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "_id": "DeQNrt7vdQhDpnnB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!DeQNrt7vdQhDpnnB"
+}

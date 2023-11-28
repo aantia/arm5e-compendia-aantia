@@ -1,0 +1,42 @@
+{
+  "name": "Etiquette",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/etiquette.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_buj82p3vtnu",
+      "path": "Abilities#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You know the social graces and how to behave in different situations. Etiquette differs from Charm in that Etiquette covers proper behavior, rather than charming behavior. You cannot seduce someone with Etiquette, but nei Ars Magica Fifth Edition ther can you get through an audience with the bishop on Charm alone. \nSpecialties: nobility, court, peasants, faeries, the Church. (General)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "etiquette",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "etiquette"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751866,
+    "modifiedTime": 1696140814580,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "9BMafwfwWY1sR2eE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!9BMafwfwWY1sR2eE"
+}

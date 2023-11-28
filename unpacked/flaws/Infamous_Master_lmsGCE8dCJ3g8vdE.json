@@ -1,0 +1,40 @@
+{
+  "name": "Infamous Master",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Your master was a diabolist, bumbler, fool, widely despised, or held in contempt for some other reason. Most magi expect little better from you. Even if you’ve done nothing wrong, you are treated as though you dont deserve to be a member of the Order. You have a bad Reputation of the appropriate type at level 3 among magi.",
+    "source": "ArM5",
+    "page": 55,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "infamous-master"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751655,
+    "modifiedTime": 1696141995285,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "8FTSMAxaThguRoxc",
+  "_id": "lmsGCE8dCJ3g8vdE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!lmsGCE8dCJ3g8vdE"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Mercurian Magic",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 46,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "mercurian-magic",
+    "description": "Your magical lineage and traditions are from the Roman priests of Mercury, which predate the Order of Hermes, making you especially skilled with Ritual Magic and magic used 46 Spontaneous \tmagic \tusing \tthe \trules \tfor Ceremonial Casting (page 83)."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751306,
+    "modifiedTime": 1696141995657,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ryEkrZYbf9tQGIrO",
+  "_id": "0u4Tj1AuadcgHCUD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!0u4Tj1AuadcgHCUD"
+}

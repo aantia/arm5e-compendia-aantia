@@ -1,0 +1,40 @@
+{
+  "name": "Magister In Artibus",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/social.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_kuhc1tso94g",
+      "path": "Virtues#/CF_SEP/Social Status",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have incepted Master of Arts in one of the universities of Europe (Paris, Bologna, Oxford, Cambridge, Montpellier, Arezzo or Salamanca) and completed your two years’ regency of compulsory teaching. You are entitled to be addressed as Magister, are subject only to canon law, and may teach anywhere in Europe. You are at least (25 – Int) years old, and must have scores of at least 5 in Latin and Artes Liberales. You have, however, spent eight years in a university, and gain an additional 30 experience points in each of those years, for a total of 240 additional experience points over and above your allowance based on age. You may buy Academic Abilities during character generation, and must spend your additional experience points on Academic Abilities or Teaching. You must spend two seasons teaching to maintain yourself and your reputation as a dependable instructor. These two seasons are spread between September and June, so you are genuinely free in the summer. If you take the Poor flaw, you are still genuinely free in the summer. If you take the Wealthy virtue, you can maintain your reputation with a single seasons teaching. This Virtue is only available to male characters, and is compatible with the Hermetic Magus, Mendicant Friar, and Priest Virtues.",
+    "source": "ArM5",
+    "page": 45,
+    "type": "social",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "magister-in-artibus"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751305,
+    "modifiedTime": 1696141995966,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "5doiTaY9KQf8IBzO",
+  "_id": "RjbpIat6dkHYeCC3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!RjbpIat6dkHYeCC3"
+}

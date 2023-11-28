@@ -1,0 +1,40 @@
+{
+  "name": "Compulsion",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have an unfortunate urge that causes you problems. Examples include drinking, sex, perfection, bragging, or gambling.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "compulsion"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751502,
+    "modifiedTime": 1696141994349,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "1GFt2qlp03OhJp55",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!1GFt2qlp03OhJp55"
+}

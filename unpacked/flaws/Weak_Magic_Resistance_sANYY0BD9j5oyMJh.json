@@ -1,0 +1,40 @@
+{
+  "name": "Weak Magic Resistance",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Any form of magic resistance you gener ate is much weaker under relatively common circumstances which are fairly easy for an opponent to utilize, such as when you are wet or facing away from the caster of the spell. If the conditions are met, do not subtract the level of the effect from the casting total before calculating Penetration. You would be well advised to keep your weakness from being discovered by too many potential enemies.",
+    "source": "ArM5",
+    "page": 61,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "weak-magic-resistance"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751544,
+    "modifiedTime": 1696141995478,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "MY0pk5xRqPANrebl",
+  "_id": "sANYY0BD9j5oyMJh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!sANYY0BD9j5oyMJh"
+}

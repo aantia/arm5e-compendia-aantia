@@ -1,0 +1,40 @@
+{
+  "name": "Unstructured Caster",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have never quite mastered the intricacies of spellcasting, and are unable to perform formulaic magic without extreme effort. You cast all formulaic spells as though they were ritual spells (including the need for vis), and you may not learn ritual spells at all. You cast spontaneous spells normally.",
+    "source": "ArM5",
+    "page": 60,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "unstructured-caster"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751623,
+    "modifiedTime": 1696141995298,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "MY0pk5xRqPANrebl",
+  "_id": "mBOuAXPR4VxTdHws",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!mBOuAXPR4VxTdHws"
+}

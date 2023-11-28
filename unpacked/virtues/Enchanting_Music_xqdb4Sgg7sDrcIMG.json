@@ -1,0 +1,83 @@
+{
+  "name": "Enchanting Music",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [
+    {
+      "origin": "Item.xqdb4Sgg7sDrcIMG",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [
+        {
+          "mode": 2,
+          "key": "system.bonuses.skills.enchantingMusic.bonus",
+          "value": "5",
+          "priority": null
+        }
+      ],
+      "flags": {
+        "arm5e": {
+          "type": [
+            "bonusSupernaturalAbility"
+          ],
+          "subtype": [
+            "enchantingMusic"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "XP Bonus",
+      "icon": "icons/svg/aura.svg",
+      "_id": "9cOfrDS6Vq8HtBzE",
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "_key": "!items.effects!xqdb4Sgg7sDrcIMG.9cOfrDS6Vq8HtBzE"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nh7mgwj6rq",
+      "path": "Virtues#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 41,
+    "type": "supernatural",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "enchanting-music",
+    "description": "When you set your mind to it, you can magically induce emotions and beliefs in others with your music. Choosing this Virtue confers the Ability Enchanting Music 1 (page 65)."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751293,
+    "modifiedTime": 1696141996309,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "XwOh5akgyjxNE2dG",
+  "_id": "xqdb4Sgg7sDrcIMG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!xqdb4Sgg7sDrcIMG"
+}

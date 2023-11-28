@@ -1,0 +1,92 @@
+{
+  "name": "Good Teacher",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/generalVirtue.svg",
+  "effects": [
+    {
+      "origin": "Compendium.arm5e.virtues.HkspYnZE3BMfKqdB",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [
+        {
+          "key": "system.bonuses.activities.writing",
+          "value": "3",
+          "mode": 2,
+          "priority": null
+        },
+        {
+          "mode": 2,
+          "key": "system.bonuses.activities.teacher",
+          "value": "5",
+          "priority": null
+        }
+      ],
+      "flags": {
+        "arm5e": {
+          "type": [
+            "activities",
+            "activities"
+          ],
+          "subtype": [
+            "writing",
+            "teacher"
+          ],
+          "option": [
+            null,
+            null
+          ]
+        }
+      },
+      "icon": "icons/svg/aura.svg",
+      "_id": "EolKipnLg6rW6AL2",
+      "transfer": true,
+      "name": "Good teacher",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!HkspYnZE3BMfKqdB.EolKipnLg6rW6AL2"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_qajjxhee95m",
+      "path": "Virtues#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 43,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "good-teacher",
+    "description": "You can explain new concepts and skills with great facility. Add three to the Quality of any books that you write, and five to the Advancement Total of anyone who studies with you."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751320,
+    "modifiedTime": 1696141995860,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "jegZHVtv21smauPD",
+  "_id": "HkspYnZE3BMfKqdB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!HkspYnZE3BMfKqdB"
+}

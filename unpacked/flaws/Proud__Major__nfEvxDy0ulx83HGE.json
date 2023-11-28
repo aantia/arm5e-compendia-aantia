@@ -1,0 +1,40 @@
+{
+  "name": "Proud (Major)",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You believe that you are more important than just about everybody, and expect the appropriate respect. Magi may admit one or two equals, but do not believe that they have any superiors. Mundanes will admit social superiors, but still believe themselves to be fundamentally better than, say, the king.",
+    "source": "ArM5",
+    "page": 58,
+    "type": "personality",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "proud-major"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751639,
+    "modifiedTime": 1696141995368,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "bz0zTiMt6vpLpBEO",
+  "_id": "nfEvxDy0ulx83HGE",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!nfEvxDy0ulx83HGE"
+}

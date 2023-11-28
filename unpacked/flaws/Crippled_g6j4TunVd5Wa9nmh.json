@@ -1,0 +1,40 @@
+{
+  "name": "Crippled",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You either have no legs, or your legs are completely useless. You may have lost them in an accident or as a punishment. You cannot walk, although you may drag yourself along the ground, or push a trolley around with a stick.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "crippled"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751525,
+    "modifiedTime": 1696141995129,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "g6j4TunVd5Wa9nmh",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!g6j4TunVd5Wa9nmh"
+}

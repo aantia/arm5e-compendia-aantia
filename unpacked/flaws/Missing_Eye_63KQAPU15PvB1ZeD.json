@@ -1,0 +1,40 @@
+{
+  "name": "Missing Eye",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You cannot judge close distances easily and get –3 on Attack rolls for missiles and targeting rolls for spells. In melee combat you suffer –1 on Attack rolls because your field of vision is limited. You also have a blind side from which people can approach unseen. This Flaw can be combined with Poor Eyesight (below), but the penalties are cumulative.",
+    "source": "ArM5",
+    "page": 56,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "missing-eye"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751571,
+    "modifiedTime": 1696141994500,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "63KQAPU15PvB1ZeD",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!63KQAPU15PvB1ZeD"
+}

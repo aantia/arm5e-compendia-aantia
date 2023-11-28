@@ -1,0 +1,40 @@
+{
+  "name": "Gentle Gift",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 42,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "gentle-gift",
+    "description": "Unlike other magi, whose Magical nature disturbs normal people and animals, your Gift is subtle and quiet. You dont suffer the usual penalties when interacting with people and animals. GENTLEMAN/WOMAN Minor, Social Status You are a minor member (possibly illegitimate) of a noble family. You do not stand to inherit from your relatives, but are still treated as one of their own and may be addressed as “Lord” or “Lady.” You probably reside near the covenant with your relatives. Although you do not want for anything, you have no vast wealth of your own. You may occasionally ask your family to buy expensive equipment for you, but you will need a convincing rationale. You are expected to wait on your relations much of the time or you will lose the benefits of family (though you will keep your social standing if you can otherwise maintain your normal lifestyle). The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is available to male and female characters."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751329,
+    "modifiedTime": 1696141995712,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ryEkrZYbf9tQGIrO",
+  "_id": "4RPkNbijbzuTt5u0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!4RPkNbijbzuTt5u0"
+}

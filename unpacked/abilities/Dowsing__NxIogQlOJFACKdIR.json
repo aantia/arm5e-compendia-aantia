@@ -1,0 +1,42 @@
+{
+  "name": "Dowsing*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/dowsing.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "dowsing",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "downsing"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751892,
+    "modifiedTime": 1696175090916,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ZbCET9zUtDWzYD5z",
+  "_id": "NxIogQlOJFACKdIR",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!NxIogQlOJFACKdIR"
+}

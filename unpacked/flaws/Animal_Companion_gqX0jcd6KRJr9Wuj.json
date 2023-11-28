@@ -1,0 +1,40 @@
+{
+  "name": "Animal Companion",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are accompanied by a loyal, intelligent (but mundane) animal that can obey simple commands. Your relationship with it is very close. If it should die, you would be profoundly upset.",
+    "source": "ArM5",
+    "page": 51,
+    "type": "story",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "animal-companion"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751654,
+    "modifiedTime": 1696141995149,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "w0VVgqRCx0opq0TL",
+  "_id": "gqX0jcd6KRJr9Wuj",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!gqX0jcd6KRJr9Wuj"
+}

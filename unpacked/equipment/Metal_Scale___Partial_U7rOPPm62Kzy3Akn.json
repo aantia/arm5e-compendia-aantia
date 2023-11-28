@@ -1,0 +1,44 @@
+{
+  "name": "Metal Scale - Partial",
+  "type": "armor",
+  "img": "icons/equipment/chest/breastplate-scale-grey.webp",
+  "effects": [],
+  "folder": "qe6K6lOIy7t2w02l",
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_d16odjpbext",
+      "path": "Equipments#/CF_SEP/Armor",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "custom",
+    "page": 0,
+    "cost": {
+      "value": "std"
+    },
+    "quantity": 1,
+    "prot": 4,
+    "full": false,
+    "load": 4,
+    "equipped": false,
+    "indexKey": "metal-scale-partial"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.19",
+    "coreVersion": "11.311",
+    "createdTime": 1662235750964,
+    "modifiedTime": 1696609414621,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "_id": "U7rOPPm62Kzy3Akn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!U7rOPPm62Kzy3Akn"
+}

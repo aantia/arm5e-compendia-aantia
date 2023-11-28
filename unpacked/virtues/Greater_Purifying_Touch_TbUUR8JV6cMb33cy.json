@@ -1,0 +1,40 @@
+{
+  "name": "Greater Purifying Touch",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nh7mgwj6rq",
+      "path": "Virtues#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 43,
+    "type": "supernatural",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "greater-purifying-touch",
+    "description": "You can, with a touch and the expenditure of a Fatigue level, cure a single serious disease. This disease should be either life-threatening or seriously disabling, and should be one from which people do not normally recover by themselves. You must choose the disease that you can cure when you take this Virtue, and you can only cure that disease. You can only choose a disease, not other types of injury or misfortune. See page 180 for more information on diseases."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751289,
+    "modifiedTime": 1696141995980,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Sym94leLiWXQ3Rh9",
+  "_id": "TbUUR8JV6cMb33cy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!TbUUR8JV6cMb33cy"
+}

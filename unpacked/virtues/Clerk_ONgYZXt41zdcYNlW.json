@@ -1,0 +1,40 @@
+{
+  "name": "Clerk",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/social.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_kuhc1tso94g",
+      "path": "Virtues#/CF_SEP/Social Status",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are a member of the literate class and are either a professional scribe, accountant, lawyer, student, or functionary. Due to your training, you may take Academic Abilities during character generation. If you are male, you may be in minor orders (acolyte, exorcist, lector, or door-keeper), in which case you may marry and still benefit from being a member of the clergy and as such subject to canon rather than secular law (see page 205). Male characters may also be sub-deacons or deacons, the lesser two holy orders, in which case they would normally be expected to be unmarried. However, if they were already married, and promise complete sexual abstinence, they may still be ordained to these orders. A man may not marry after ordination to holy orders. Those in holy orders are also subject to canon, rather than secular, law. The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is available to male and female characters.",
+    "source": "ArM5",
+    "page": 40,
+    "type": "social",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "clerk"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751267,
+    "modifiedTime": 1696141995934,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Dlca5muDKIfBSi6F",
+  "_id": "ONgYZXt41zdcYNlW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!ONgYZXt41zdcYNlW"
+}

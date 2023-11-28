@@ -1,0 +1,40 @@
+{
+  "name": "Blackmail",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have information that some powerful person would prefer kept hidden. You receive payments or services in return for your silence, and you may occasionally demand special favors. Don’t push your luck — your victim may decide it isn’t worth the cost, or silence you permanently. This benefit has a yearly value of about 50 silver pennies, possibly more if you keep the pressure on. You should detail and record the specifics of this arrangement.",
+    "source": "ArM5",
+    "page": 51,
+    "type": "story",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "blackmail"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751505,
+    "modifiedTime": 1696141995136,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "w0VVgqRCx0opq0TL",
+  "_id": "gUc5vU2E9uj4iR34",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!gUc5vU2E9uj4iR34"
+}

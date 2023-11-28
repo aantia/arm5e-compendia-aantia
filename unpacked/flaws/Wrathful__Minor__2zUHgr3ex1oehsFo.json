@@ -1,0 +1,40 @@
+{
+  "name": "Wrathful (Minor)",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are prone to anger over the smallest issues, and your rage when you are thwarted in something major is terrible to behold.",
+    "source": "ArM5",
+    "page": 61,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "wrathful-minor"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751660,
+    "modifiedTime": 1696141994399,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "2zUHgr3ex1oehsFo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!2zUHgr3ex1oehsFo"
+}

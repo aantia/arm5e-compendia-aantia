@@ -1,0 +1,40 @@
+{
+  "name": "Minor Magical Focus",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 46,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "minor-magical-focus",
+    "description": "Your magic is particularly attuned to some narrow field, such as self-transformation, birds of prey, or healing. In general, the field should be slightly narrower than a single Technique and Form combination, although it may include restricted areas of several such combinations. Healing, for example, is a part of Creo Corpus, Creo Animal, and possibly Creo Herbam. You cannot be focused on a laboratory activity, such as creating charged items, although a focus does apply to laboratory activities. When you cast a spell or generate a Lab Total within your focus, add the lowest applicable Art score twice, as for a Major Magical Focus (page 45). A magus may only have one Magical Focus, whether major or minor, regardless of the source of the focus.\nSample Minor Magical Foci \nThis list is merely exemplary; other foci are possible. \nAnimal: Birds of prey, canines, mustelidae. \nAquam: Stagnant water, small streams. \nAuram: Wind, rain, lightning. \nCorpus: Aging, disease. \nHerbam: Fruiting, wood. \nImaginem: A particular color or sound. \nMentem: Anger, lust, erasing memories, changing memories. \nTerram: Creating metals, destroying stone. \nHealing: Applies to people, animals, and plants. \nSelf-Transformation: Applies to both Corpus and Mentem. "
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751232,
+    "modifiedTime": 1696141996172,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "C8jqPqfblXk6hGCE",
+  "_id": "o2SwHMN1e0MLTo8x",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!o2SwHMN1e0MLTo8x"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Waster Of Vis",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "When you use raw vis you waste one quarter (rounded up) of the pawns you apply. The lost raw vis does not apply to the magical effect being enacted but does count toward the total number of botch dice you must roll if you roll a zero. You must use a third again as many pawns as usual when casting a ritual spell, and if you want to improve an Art score by studying raw vis, you must use a third again as many pawns as usual. This Flaw applies to all occasions on which you use vis, including certamen, laboratory work, and boosting penetration. Wasted pawns count toward the maximum number you can use at one time. For example, if you would normally use 12 pawns, you use 16, and 4, one quarter of those you use, are wasted. If you would normally need 10 pawns, you use 14, because 4 pawns are wasted.",
+    "source": "ArM5",
+    "page": 61,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "waster-of-vis"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751534,
+    "modifiedTime": 1696141994438,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "MY0pk5xRqPANrebl",
+  "_id": "4aOpu5R2t0mtKcj3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!4aOpu5R2t0mtKcj3"
+}

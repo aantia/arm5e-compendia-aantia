@@ -1,0 +1,40 @@
+{
+  "name": "Greater Immunity",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nh7mgwj6rq",
+      "path": "Virtues#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 43,
+    "type": "supernatural",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "greater-immunity",
+    "description": "You are completely immune to one hazard which is both common and potentially deadly. For example, you might be immune to fire or to iron (and only iron) weapons. You may not take immunity to aging — see the Unaging Supernatural Minor Virtue (page 50) instead. This immunity applies to mundane and magical versions of the thing. If you are immune to fire, you are also immune to magically created fire."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751341,
+    "modifiedTime": 1696141996231,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Sym94leLiWXQ3Rh9",
+  "_id": "ryT663aOmbWjw6I8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!ryT663aOmbWjw6I8"
+}

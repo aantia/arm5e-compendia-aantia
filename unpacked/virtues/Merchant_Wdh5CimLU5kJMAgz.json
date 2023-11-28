@@ -1,0 +1,40 @@
+{
+  "name": "Merchant",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/social.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_kuhc1tso94g",
+      "path": "Virtues#/CF_SEP/Social Status",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You live from the buying and selling of goods. You may be a peddler, if you are relatively poor, a shopkeeper, or a traveling merchant. The Wealthy Major Virtue and Poor Major Flaw affect you normally.",
+    "source": "ArM5",
+    "page": 46,
+    "type": "social",
+    "impact": {
+      "value": "free"
+    },
+    "indexKey": "merchant"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751251,
+    "modifiedTime": 1696141996007,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "CoxB6DSMq2bRMl47",
+  "_id": "Wdh5CimLU5kJMAgz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!Wdh5CimLU5kJMAgz"
+}

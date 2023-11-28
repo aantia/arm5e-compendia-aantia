@@ -1,0 +1,40 @@
+{
+  "name": "Depressed",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have a dark outlook on life, seeing little point in acting and taking no pleasure in anything that happens.",
+    "source": "ArM5",
+    "page": 53,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "depressed"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751587,
+    "modifiedTime": 1696141995502,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "uQc2d6g7wZvRMJzk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!uQc2d6g7wZvRMJzk"
+}

@@ -1,0 +1,83 @@
+{
+  "name": "Wilderness Sense",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [
+    {
+      "origin": "Item.rdXZCgrtQYmHjZp2",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [
+        {
+          "mode": 2,
+          "key": "system.bonuses.skills.wildernessSense.bonus",
+          "value": "5",
+          "priority": null
+        }
+      ],
+      "flags": {
+        "arm5e": {
+          "type": [
+            "bonusSupernaturalAbility"
+          ],
+          "subtype": [
+            "wildernessSense"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "XP Bonus",
+      "icon": "icons/svg/aura.svg",
+      "_id": "rqIXzVKvZtxv0W37",
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "_key": "!items.effects!rdXZCgrtQYmHjZp2.rqIXzVKvZtxv0W37"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nh7mgwj6rq",
+      "path": "Virtues#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 50,
+    "type": "supernatural",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "wilderness-sense",
+    "description": "You are mystically attuned to the ways of the wilderness. Choosing this Virtue confers the Ability Wilderness Sense 1 (page 67)."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751293,
+    "modifiedTime": 1696141996221,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "XwOh5akgyjxNE2dG",
+  "_id": "rdXZCgrtQYmHjZp2",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!rdXZCgrtQYmHjZp2"
+}

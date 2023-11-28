@@ -1,0 +1,40 @@
+{
+  "name": "Clumsy Magic",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_zctzc5h7p5",
+      "path": "Flaws#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have trouble aiming your spells accurately. Any aiming roll (see page 86) is subject to disastrous failure: an aiming roll of 0 is automatically a botch. (Aiming rolls do not count as mystical rolls for the purposes of gaining Warping Points.) You receive a –3 penalty to any rolls involving Finesse.",
+    "source": "ArM5",
+    "page": 52,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "clumsy-magic"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751540,
+    "modifiedTime": 1696141995186,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "8FTSMAxaThguRoxc",
+  "_id": "ipd5HOY5fhswuDkI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!ipd5HOY5fhswuDkI"
+}

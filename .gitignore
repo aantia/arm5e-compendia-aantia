@@ -1,0 +1,22 @@
+# Node Modules
+# package*.json
+node_modules/
+npm-debug.log
+jsconfig.json
+test.js
+.npmignore
+TODO.txt
+foundry.js
+#packs/**
+packs/abilities/**
+packs/flaws/**
+packs/equipment/**
+packs/laboratory-flaws/**
+packs/laboratory-virtues/**
+packs/spells/**
+packs/virtues/**
+packs/macros/**
+packs/journals/**
+.eslintrc.json
+arm5e.lock
+arm5e-compendia.code-workspace

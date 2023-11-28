@@ -1,0 +1,40 @@
+{
+  "name": "Mute",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You cannot speak; perhaps your tongue was cut out. You probably use rudimentary hand gestures and grunts to communicate your needs. You can still understand languages perfectly well, and may learn to read and write if 56 you have an appropriate Virtue. Note that magi with this Flaw get a –10 penalty to all spellcasting, although this may be offset by taking the Quiet Magic Virtue (page 48). A magus with this Flaw can be assumed to be able to make sounds, which are sufficient to allow normal use of the Voice Range.",
+    "source": "ArM5",
+    "page": 56,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "mute"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751634,
+    "modifiedTime": 1696141995166,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "iENdtqeg3rJmbZwZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!iENdtqeg3rJmbZwZ"
+}

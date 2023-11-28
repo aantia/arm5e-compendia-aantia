@@ -1,0 +1,40 @@
+{
+  "name": "Outsider",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/social.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_da50amwz3qe",
+      "path": "Flaws#/CF_SEP/Social Status",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You belong to a group that is both readily identifiable and distrusted or disliked. Examples include Saracens, Jews, and Moors. You are shunned and often persecuted because of this, and your life and freedom may occasionally be in peril. You have a bad Reputation of level 1 to 3 (depending upon how easy it is to identify you) among members of the dominant social group of your area. There is no way for you to ever remove that stain, and you are marked by it wherever you go.",
+    "source": "ArM5",
+    "page": 57,
+    "type": "social",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "outsider"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751658,
+    "modifiedTime": 1696141995039,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "VkWchgUydFoqpyYF",
+  "_id": "akEuoaa40yZyV0PT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!akEuoaa40yZyV0PT"
+}

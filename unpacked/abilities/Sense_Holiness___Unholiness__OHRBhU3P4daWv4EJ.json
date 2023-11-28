@@ -1,0 +1,42 @@
+{
+  "name": "Sense Holiness & Unholiness*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/senseHolyAndUnholy.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are able to feel the presence of good and evil. A Perception + Sense Holiness and Unholiness roll against an Ease Factor of 9 lets you sense holiness or unholiness in a general area; against an Ease Factor of 15, in a person or object. As demons normally try to hide their nature, you must generally beat their Magic Resistance with your roll. However, you only need to beat it by 1 point, as demons are extremely evil. Emissaries of heaven rarely try to hide their nature, but if they do, you must actually penetrate their Magic Resistance (see page 184). In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you. This Ability is granted by the Divine realm, not the Magic or Faerie realms, and thus uses the Divine column of the Realm Interaction chart (page 183). Specialties: good or evil. (Supernatural)",
+    "source": "ArM5",
+    "page": 67,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "senseHolyAndUnholy",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "sense-holiness-unholiness"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751922,
+    "modifiedTime": 1696140814733,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ZbCET9zUtDWzYD5z",
+  "_id": "OHRBhU3P4daWv4EJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!OHRBhU3P4daWv4EJ"
+}

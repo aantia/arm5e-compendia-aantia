@@ -1,0 +1,40 @@
+{
+  "name": "Visions (Story)",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/story.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_ciwmacrmzmm",
+      "path": "Flaws#/CF_SEP/Story",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You often see images related to emotionally or magically laden events. A vision might be of the past, a possible future, or a distant occurrence, and is often symbolic or confusing. Visions usually come to you at quiet times or in places connected with a powerful emotional or magical event, such as the site of a patricide or diabolic sacrifice. Your visions may warn you of dangers to come, or involve you in matters you would otherwise avoid. The visions come purely at the storyguides discretion, and reveal only what he wants to reveal.",
+    "source": "ArM5",
+    "page": 60,
+    "type": "story",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "visions-story"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751535,
+    "modifiedTime": 1696141994914,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "w0VVgqRCx0opq0TL",
+  "_id": "VMdxfI9f4ORRb61f",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!VMdxfI9f4ORRb61f"
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Great (characteristic)",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/generalVirtue.svg",
+  "effects": [
+    {
+      "origin": "Item.M5kCpuXBtsSwCK1N",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [],
+      "flags": {
+        "arm5e": {
+          "type": [],
+          "subtype": [],
+          "option": []
+        }
+      },
+      "name": "Great characteristic (to configure)",
+      "icon": "icons/svg/aura.svg",
+      "_id": "hhvsgxVe6fSH5wyk",
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "_key": "!items.effects!M5kCpuXBtsSwCK1N.hhvsgxVe6fSH5wyk"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_qajjxhee95m",
+      "path": "Virtues#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 43,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "great-characteristic",
+    "description": "You may raise any Characteristic that already has a score of at least +3 by one point, to no more than +5. Make sure you describe what it is about you that causes that increase (such as sheer bulk, a lean build, or extreme charisma). You may take this Virtue twice for the same Characteristic, and for more than one Characteristic."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751294,
+    "modifiedTime": 1696141995894,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "jegZHVtv21smauPD",
+  "_id": "M5kCpuXBtsSwCK1N",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!M5kCpuXBtsSwCK1N"
+}

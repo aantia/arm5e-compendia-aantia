@@ -1,0 +1,42 @@
+{
+  "name": "Enchanting Music*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/enchantingMusic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "When you set your mind to it, you can influence others with your music. For a specific effect, you must sing words that people can understand. You can calm the grieving with tunes alone, but you need lyrics to convince peasants to rise up against the local lord. General effects work on animals, but specific effects only work on creatures that can understand words. When you use Enchanting Music, roll a die (stress or simple, depending on the situation)   and   add   Communication   and Enchanting Music. An Ease Factor of 9+will calm the upset, 12 will win someones love, 15 will incite a riot, and a 24 might win back a soul from the Prince of Darkness. If you botch, you inspire an unwanted emotion. If the target has Magic Resistance, you must penetrate their resistance; see page 184 for rules. You should also roll for the quality of the musical performance, but the magical effect is independent of this, unless you botch. If you do botch the Music roll, you have failed to produce any music for some reason, and so the Supernatural   Ability   automatically   fails. \nSpecialties: a particular emotion, a particular sort of person. (Supernatural)",
+    "source": "ArM5",
+    "page": 65,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "enchantingMusic",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "enchanting-music"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751875,
+    "modifiedTime": 1696140815003,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ZbCET9zUtDWzYD5z",
+  "_id": "xbTG2W8In4qGEGKH",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!xbTG2W8In4qGEGKH"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Secondary Insight",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 48,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "secondary-insight",
+    "description": "Your method of magical study is especial ly versatile. When studying one of the magical Techniques from a book, a teacher, or raw vis, you also gain a single experience point in any 4 Forms of your choosing. When studying one of the magical Forms, you also gain a single experience point in any 2 separate Techniques of 48 your choosing. You may not put more than one bonus experience point into a single Art. This Virtue is especially suitable for generalist magi. SELF-CONFIDENT Minor, General You have firm confidence in your own abilities, and have a Confidence Score of two. You also start with five Confidence Points, rather than the usual three. (See page 19 for Confidence rules.)"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751221,
+    "modifiedTime": 1696141996261,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ryEkrZYbf9tQGIrO",
+  "_id": "tT8rglwmgcEGcP6w",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!tT8rglwmgcEGcP6w"
+}

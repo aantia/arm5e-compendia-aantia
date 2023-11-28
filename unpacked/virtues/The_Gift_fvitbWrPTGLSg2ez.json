@@ -1,0 +1,83 @@
+{
+  "name": "The Gift",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [
+    {
+      "_id": "yK4GGIeDpUr5wA3E",
+      "changes": [
+        {
+          "key": "system.realms.magic.aligned",
+          "value": "true",
+          "mode": 5,
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.arm5e.virtues.5906ZrzYdesEtJH3",
+      "tint": "#000000",
+      "transfer": true,
+      "flags": {
+        "arm5e": {
+          "type": [
+            "realm"
+          ],
+          "subtype": [
+            "magic"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "Magic aligned",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!fvitbWrPTGLSg2ez.yK4GGIeDpUr5wA3E"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_lre469g8dv",
+      "path": "Virtues#/CF_SEP/Special",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 43,
+    "type": "hermetic",
+    "impact": {
+      "value": "free"
+    },
+    "indexKey": "the-gift"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751222,
+    "modifiedTime": 1696141996112,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "umvpyTZt5f5tEdND",
+  "_id": "fvitbWrPTGLSg2ez",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!fvitbWrPTGLSg2ez"
+}

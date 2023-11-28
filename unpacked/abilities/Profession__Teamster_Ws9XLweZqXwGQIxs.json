@@ -1,0 +1,42 @@
+{
+  "name": "Profession: Teamster",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/profession.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_objljw4w1kp",
+      "path": "Abilities#/CF_SEP/General, Professions",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 67,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "profession",
+    "option": "Teamster",
+    "realm": "magic",
+    "indexKey": "profession-teamster"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751859,
+    "modifiedTime": 1696140814770,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "Ws9XLweZqXwGQIxs",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!Ws9XLweZqXwGQIxs"
+}

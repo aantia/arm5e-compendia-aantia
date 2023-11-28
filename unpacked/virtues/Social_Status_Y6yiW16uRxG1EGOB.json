@@ -1,0 +1,19 @@
+{
+  "name": "Social Status",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1693240061297,
+    "modifiedTime": 1696141875127,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "_id": "Y6yiW16uRxG1EGOB",
+  "sort": 0,
+  "_key": "!folders!Y6yiW16uRxG1EGOB"
+}

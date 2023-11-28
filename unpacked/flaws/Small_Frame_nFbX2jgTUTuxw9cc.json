@@ -1,0 +1,83 @@
+{
+  "name": "Small Frame",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [
+    {
+      "_id": "E6e4bvPR5eVb7IJq",
+      "changes": [
+        {
+          "key": "system.vitals.siz.value",
+          "value": "-1",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.arm5e.flaws.dkNtErVVH7UdqraZ",
+      "tint": "#000000",
+      "transfer": true,
+      "flags": {
+        "arm5e": {
+          "type": [
+            "vitals"
+          ],
+          "subtype": [
+            "size"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "Small Frame",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!nFbX2jgTUTuxw9cc.E6e4bvPR5eVb7IJq"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are of a lighter-than-average build. Your Size is reduced to –1. This means that the severity of wounds you take increases in four point increments, rather than five point. (See page 171). You cannot take this Flaw and Giant Blood, Large, or Dwarf.",
+    "source": "ArM5",
+    "page": 59,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "small-frame"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751615,
+    "modifiedTime": 1696141995331,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "nFbX2jgTUTuxw9cc",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!nFbX2jgTUTuxw9cc"
+}

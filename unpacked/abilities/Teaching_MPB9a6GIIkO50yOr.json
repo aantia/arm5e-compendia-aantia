@@ -1,0 +1,42 @@
+{
+  "name": "Teaching",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/teaching.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_buj82p3vtnu",
+      "path": "Abilities#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "The ability to teach an Ability to some one else. \nSpecialties: a particular Ability, particular kinds of student. (General)",
+    "source": "ArM5",
+    "page": 67,
+    "defaultChaAb": "com",
+    "speciality": "",
+    "xp": 0,
+    "key": "teaching",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "teaching"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751856,
+    "modifiedTime": 1696140814716,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "MPB9a6GIIkO50yOr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!MPB9a6GIIkO50yOr"
+}

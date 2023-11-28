@@ -1,0 +1,70 @@
+{
+  "name": "No Hands",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [
+    {
+      "_id": "An5Lfzt4Pt7JfN8c",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.arm5e.flaws.hbzPg2zlVXLhUPrX",
+      "tint": "#000000",
+      "transfer": true,
+      "flags": {
+        "arm5e": {
+          "type": [],
+          "subtype": [],
+          "option": []
+        }
+      },
+      "name": "No hands",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!vtNYk7rCruGkXhYa.An5Lfzt4Pt7JfN8c"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have no hands. Any activity requiring hands is impossible, and magi with this flaw take a –5 penalty to all spellcasting. This may be offset by taking the Subtle Magic Virtue.",
+    "source": "ArM5",
+    "page": 56,
+    "type": "general",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "no-hands"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751625,
+    "modifiedTime": 1696141995531,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "JfccfuGi1M1LXZSX",
+  "_id": "vtNYk7rCruGkXhYa",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!vtNYk7rCruGkXhYa"
+}

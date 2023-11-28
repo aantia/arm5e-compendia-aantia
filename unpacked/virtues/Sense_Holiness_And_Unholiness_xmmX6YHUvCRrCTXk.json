@@ -1,0 +1,83 @@
+{
+  "name": "Sense Holiness And Unholiness",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [
+    {
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.arm5e.virtues.xmmX6YHUvCRrCTXk",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [
+        {
+          "mode": 2,
+          "key": "system.bonuses.skills.senseHolyAndUnholy.xpMod",
+          "value": "5",
+          "priority": null
+        }
+      ],
+      "flags": {
+        "arm5e": {
+          "type": [
+            "xpBonusSupernaturalAbility"
+          ],
+          "subtype": [
+            "senseHolyAndUnholy"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "_id": "sVVqC4kTsL81H1hn",
+      "transfer": true,
+      "name": "xp bonus",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!xmmX6YHUvCRrCTXk.sVVqC4kTsL81H1hn"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nh7mgwj6rq",
+      "path": "Virtues#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 48,
+    "type": "supernatural",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "sense-holiness-and-unholiness",
+    "description": "You are able to feel the presence of good and evil. In auras of particularly strong divine or infernal influence, your sensitivity may overwhelm you. Choosing this Virtue confers the Ability Sense Holiness and Unholiness 1 (page 67)."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751238,
+    "modifiedTime": 1696141996304,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "XwOh5akgyjxNE2dG",
+  "_id": "xmmX6YHUvCRrCTXk",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!xmmX6YHUvCRrCTXk"
+}

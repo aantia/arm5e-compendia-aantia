@@ -1,0 +1,83 @@
+{
+  "name": "Obese",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/generalFlaw.svg",
+  "effects": [
+    {
+      "_id": "RV7UuhWSSU7fHDn1",
+      "changes": [
+        {
+          "key": "system.vitals.siz.value",
+          "value": "1",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "icon": "icons/svg/aura.svg",
+      "origin": "Compendium.arm5e.flaws.simXyBekUThIdt2Q",
+      "tint": "#000000",
+      "transfer": true,
+      "flags": {
+        "arm5e": {
+          "type": [
+            "vitals"
+          ],
+          "subtype": [
+            "size"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "Size +1",
+      "description": "",
+      "statuses": [],
+      "_key": "!items.effects!3NUTVZLNMeA4yZxY.RV7UuhWSSU7fHDn1"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_g1gywhrffo",
+      "path": "Flaws#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are large because of fat, not muscle. You are at –1 to all rolls that involve moving quickly or gracefully and at –3 to all Fatigue rolls. You are not so large that your Size is increased, and you may take this Flaw along with the Virtues and Flaws that change your Size.",
+    "source": "ArM5",
+    "page": 57,
+    "type": "general",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "obese"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751649,
+    "modifiedTime": 1696141994410,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "UfPp46NPMX0jIrJv",
+  "_id": "3NUTVZLNMeA4yZxY",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!3NUTVZLNMeA4yZxY"
+}

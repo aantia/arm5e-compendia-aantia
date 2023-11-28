@@ -1,0 +1,40 @@
+{
+  "name": "Gentleman/woman",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/social.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_kuhc1tso94g",
+      "path": "Virtues#/CF_SEP/Social Status",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are a minor member (possibly illegitimate) of a noble family. You do not stand to inherit from your relatives, but are still treated as one of their own and may be addressed as “Lord” or “Lady.” You probably reside near the covenant with your relatives. Although you do not want for anything, you have no vast wealth of your own. You may occasionally ask your family to buy expensive equipment for you, but you will need a convincing rationale. You are expected to wait on your relations much of the time or you will lose the benefits of family (though you will keep your social standing if you can otherwise maintain your normal lifestyle). The Wealthy Virtue and Poor Flaw affect you normally. This Virtue is available to male and female characters.",
+    "source": "ArM5",
+    "page": 42,
+    "type": "social",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "gentlemanwoman"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751278,
+    "modifiedTime": 1696141996201,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Dlca5muDKIfBSi6F",
+  "_id": "q2BFen5vaekNsDBy",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!q2BFen5vaekNsDBy"
+}

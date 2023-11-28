@@ -1,0 +1,40 @@
+{
+  "name": "Elemental Magic",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 41,
+    "type": "hermetic",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "elemental-magic",
+    "description": "You have been trained in the ability to manipulate raw elemental forms (Ignem, Auram, Terram and Aquam), and view them as a connected whole rather than four separate Arts. Whenever you successfully study one of these Arts (that is, gain at least one experience point from study), you gain an additional experience point in each of the other three. Your elemental magics are also more flexible than those of other magi — there is no disadvantage in adding elemental Form requisites to any elemental spell. If an Aquam, Auram, Ignem, or Terram spell has another element as a requisite, you may ignore the requisite. You must still use the primary Art, even if the requisite is higher."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751278,
+    "modifiedTime": 1696141996149,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ryEkrZYbf9tQGIrO",
+  "_id": "mqfMdqGhhIVMes87",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!mqfMdqGhhIVMes87"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Nocturnal",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/personality.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_18qw00m8tam",
+      "path": "Flaws#/CF_SEP/Personality",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Your natural body rhythms try to keep you sleeping until noon. You are at –1 on all rolls \tmade \tbetween \tdawn \tand \tmidday. Conversely, you have little difficulty staying up at night. Though you enjoy no special benefits in the dark, your companions may decide to saddle you with night guard duty on a regular basis to use your attributes to best effect.",
+    "source": "ArM5",
+    "page": 56,
+    "type": "personality",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "nocturnal"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751566,
+    "modifiedTime": 1696141994608,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "hXfkbCsUoxlA0bSB",
+  "_id": "DCBOe4dhBD4b8YSJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!DCBOe4dhBD4b8YSJ"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Language: (Type)*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/livingLanguage.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_r64qqxkggi",
+      "path": "Abilities#/CF_SEP/General, Languages",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Fluency in a particular living language. \nRather than a die roll modifier, your score in this Knowledge measures your ability to communicate. \nScore\tFluency \n0\tPoint and grunt. With one or more experience points, you know \"please,\" \"thank you,\" and a few other words. \n1\tBasic questions and answers: \"Where is the church?,\" \"Do you sell food?\" Constant mistakes, and an atrocious accent. People must speak slowly and often repeat themselves, and you cannot string a conversation together. \n2\tBasic conversation.\tYou can sustain a short conversation on a common topic. You still make many mistakes, and often fail to catch what others say. \n3\tHaltingly functional. You can hold a conversation on everyday topics, although it takes time, you make many mistakes, and your accent is still bad. \n4\tFunctional. You can hold a conversation on non-technical topics, and make few mistakes. People do not normally need to repeat themselves. This is the minimum level required to study from a book. \n5\tFluent. You still have an accent if this is not your native language, but it is weak. You speak as well as most natives. This is the minimum level required to write a book. \n6\tElegant. You choose your words well, and have no accent if this is not your native language. \nWhen two people speak to each other, the lower Ability score determines how well they communicate. Characters who speak related languages can communicate at a penalty to their scores (assigned by the storyguide) depending on how closely related the two languages are. \nNote that Latin and Hebrew are not living languages in most of Mythic Europe. However, characters who live in places where they are (such as some covenants) may learn this Ability without any special Virtues. \nCharacters with this Ability are illiterate unless they also have a score in Artes Liberales (page 62). \nThis Ability also covers artistic compositions in the language, and telling existing tales with verve and passion. Knowledge of stories is covered by the appropriate Lore Abilities. Specialties:\tpoetry, prose, specific dialects, expansive vocabulary, specific technical vocabulary, slang, storytelling. (General)",
+    "source": "ArM5",
+    "page": 66,
+    "defaultChaAb": "com",
+    "speciality": "",
+    "xp": 0,
+    "key": "livingLanguage",
+    "option": "languageName",
+    "realm": "magic",
+    "indexKey": "language-generic"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751914,
+    "modifiedTime": 1696141144746,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "ziJParWm2b8wSMHX",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!ziJParWm2b8wSMHX"
+}

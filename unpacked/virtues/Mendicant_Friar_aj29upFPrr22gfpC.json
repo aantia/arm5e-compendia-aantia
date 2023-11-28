@@ -1,0 +1,40 @@
+{
+  "name": "Mendicant Friar",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/social.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_kuhc1tso94g",
+      "path": "Virtues#/CF_SEP/Social Status",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are a follower of St. Francis or St. Dominic, going among the rich and poor, spreading the word of God and giving comfort to the sick, homeless, hungry, or dying. You are sworn to serve the Church for the rest of your life, but your wandering habits are considered suspect by the local bishop and parish clergy, and you lack political influence within the organization. Like all clerics, however, you are only subject to canon law. Due to your training, you may take Academic Abilities during character generation. If you wish, you may be an ordained priest and may officiate at marriages, baptisms, funerals, and the Mass, though the parish clergy may resent your interfering on their “turf.” You do not need to take the Priest Virtue in addition to this one if you do want to be ordained. You have sworn vows of poverty, chastity, and obedience, which together constitute a Major Story Flaw (Monastic Vows, see page 56) which you must take if you take this Virtue (this Flaw balances other Virtues as normal). You may not take the Wealthy Virtue or Poor Flaw. This Virtue is only available to male characters, and is compatible with the Magister in Artibus Major Virtue.",
+    "source": "ArM5",
+    "page": 46,
+    "type": "social",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "mendicant-friar"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751209,
+    "modifiedTime": 1696141996052,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Dlca5muDKIfBSi6F",
+  "_id": "aj29upFPrr22gfpC",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!aj29upFPrr22gfpC"
+}

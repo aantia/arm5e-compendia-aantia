@@ -1,0 +1,83 @@
+{
+  "name": "Free Study",
+  "type": "virtue",
+  "img": "systems/arm5e/assets/icons/VF/hermetic.svg",
+  "effects": [
+    {
+      "origin": "Item.sKLmw7fhKXq8fTSv",
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "tint": "#000000",
+      "changes": [
+        {
+          "mode": 2,
+          "key": "system.bonuses.activities.visStudy",
+          "value": "3",
+          "priority": null
+        }
+      ],
+      "flags": {
+        "arm5e": {
+          "type": [
+            "activities"
+          ],
+          "subtype": [
+            "visStudy"
+          ],
+          "option": [
+            null
+          ]
+        }
+      },
+      "name": "Vis Study",
+      "icon": "icons/svg/aura.svg",
+      "_id": "64me9GK16BHoIa8D",
+      "description": "",
+      "transfer": true,
+      "statuses": [],
+      "_key": "!items.effects!sKLmw7fhKXq8fTSv.64me9GK16BHoIa8D"
+    }
+  ],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_nxctmjlqqdb",
+      "path": "Virtues#/CF_SEP/Hermetic",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "source": "ArM5",
+    "page": 42,
+    "type": "hermetic",
+    "impact": {
+      "value": "minor"
+    },
+    "indexKey": "free-study",
+    "description": "You are better at figuring things out for yourself than you are at poring over books. Add +3 to rolls when studying from raw vis."
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751245,
+    "modifiedTime": 1696141996235,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "C8jqPqfblXk6hGCE",
+  "_id": "sKLmw7fhKXq8fTSv",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!sKLmw7fhKXq8fTSv"
+}

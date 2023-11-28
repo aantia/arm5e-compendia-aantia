@@ -1,0 +1,40 @@
+{
+  "name": "Greater Malediction",
+  "type": "flaw",
+  "img": "systems/arm5e/assets/icons/VF/supernatural.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_xc1hyhkw51",
+      "path": "Flaws#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You have been cursed by some supernat ural power, in a way that greatly hinders you. The effects of the curse should be comparable to those of other Major Flaws. Indeed, almost any greater Flaw could be the result of a curse.",
+    "source": "ArM5",
+    "page": 54,
+    "type": "supernatural",
+    "impact": {
+      "value": "major"
+    },
+    "indexKey": "greater-malediction"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751640,
+    "modifiedTime": 1696141994735,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "PMTtdepguHpd2YfJ",
+  "_id": "I9pbOgTPsaIX4MGM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!I9pbOgTPsaIX4MGM"
+}

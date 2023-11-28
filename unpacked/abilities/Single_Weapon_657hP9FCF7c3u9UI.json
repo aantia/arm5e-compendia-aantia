@@ -1,0 +1,42 @@
+{
+  "name": "Single Weapon",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/singleWeapon.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_7d6ngxdzyst",
+      "path": "Abilities#/CF_SEP/Martial",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Fighting with a weapon used in one hand, possibly using a shield with the other. This includes lances used as intended from horseback. \nSpecialties: any one weapon or shield, which covers using that weapon with any shield or none, and that shield with any weapon. (Martial) 67",
+    "source": "ArM5",
+    "page": 67,
+    "defaultChaAb": "dex",
+    "speciality": "",
+    "xp": 0,
+    "key": "singleWeapon",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "single-weapon"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751899,
+    "modifiedTime": 1696140814569,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Uh7ZiHdsWW2PjSJl",
+  "_id": "657hP9FCF7c3u9UI",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!657hP9FCF7c3u9UI"
+}

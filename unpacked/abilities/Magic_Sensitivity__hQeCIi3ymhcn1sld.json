@@ -1,0 +1,42 @@
+{
+  "name": "Magic Sensitivity*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/magicSensitivity.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "You are often able to identify a place or object as magical. However, your sensitivity makes you more susceptible to magical effects: subtract your Magic Sensitivity score from all magic resistance rolls you make. When attempting to sense the magic nature of a place or object, the storyguide will assign an Ease Factor — simply roll a simple die + Perception + Magic Sensitivity. Detecting a Magic aura would normally have an Ease Factor equal to 12 – aura level, so 9 for a level 3 aura and 6 for a level 6 aura. For spells and enchanted items, an Ease Factor equal to 21 – magnitude of effect is a good guide. For enchanted items, use the magnitude of the most powerful effect in the item. For magical creatures, 15 – one fifth of the creatures Magic Might is appropriate, so for a creature with a Magic Might of 25, the Ease Factor would be 10. \nSpecialties:  auras, magical creatures, enchanted items, active spells. (Supernatural)",
+    "source": "ArM5",
+    "page": 66,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "magicSensitivity",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "magic-sensitivity"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751842,
+    "modifiedTime": 1696140814835,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "ZbCET9zUtDWzYD5z",
+  "_id": "hQeCIi3ymhcn1sld",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!hQeCIi3ymhcn1sld"
+}

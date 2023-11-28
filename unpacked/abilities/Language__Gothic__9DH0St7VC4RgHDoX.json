@@ -1,0 +1,42 @@
+{
+  "name": "Language: Gothic*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/deadLanguage.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_097jrlmaqjp7",
+      "path": "Abilities#/CF_SEP/Academic, Languages",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "com",
+    "speciality": "",
+    "xp": 0,
+    "key": "deadLanguage",
+    "option": "Gothic",
+    "realm": "magic",
+    "indexKey": "language-gothic"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.19",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751935,
+    "modifiedTime": 1696597048288,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "RFwx3qCrd6CJ4GDo",
+  "_id": "9DH0St7VC4RgHDoX",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!9DH0St7VC4RgHDoX"
+}

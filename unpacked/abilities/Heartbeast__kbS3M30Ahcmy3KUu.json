@@ -1,0 +1,42 @@
+{
+  "name": "Heartbeast*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/heartbeast.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_mjq1fx3r06m",
+      "path": "Abilities#/CF_SEP/Supernatural",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "",
+    "source": "ArM5",
+    "page": 91,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "heartbeast",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "heartbeast"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751918,
+    "modifiedTime": 1696140814889,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Ku86xoVh78FXIgLr",
+  "_id": "kbS3M30Ahcmy3KUu",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!kbS3M30Ahcmy3KUu"
+}

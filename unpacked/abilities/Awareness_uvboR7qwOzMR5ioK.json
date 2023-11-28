@@ -1,0 +1,42 @@
+{
+  "name": "Awareness",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/awareness.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_buj82p3vtnu",
+      "path": "Abilities#/CF_SEP/General",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Noticing things, be they things you are looking for or things that you are not expecting. It is also used to see how alert you are in circumstances   that   require   watchfulness. \nSpecialties:  bodyguarding, keeping watch, alertness, searching. (General)",
+    "source": "ArM5",
+    "page": 64,
+    "defaultChaAb": "per",
+    "speciality": "",
+    "xp": 0,
+    "key": "awareness",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "awareness"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751887,
+    "modifiedTime": 1696140814984,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "adQkl7QaQHRah9iT",
+  "_id": "uvboR7qwOzMR5ioK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!uvboR7qwOzMR5ioK"
+}

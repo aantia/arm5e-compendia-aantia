@@ -1,0 +1,42 @@
+{
+  "name": "Magic Lore*",
+  "type": "ability",
+  "img": "systems/arm5e/assets/icons/abilities/magicLore.svg",
+  "effects": [],
+  "flags": {
+    "core": {},
+    "cf": {
+      "id": "temp_7bwhgya3q6x",
+      "path": "Abilities#/CF_SEP/Arcane",
+      "color": "#000000"
+    }
+  },
+  "system": {
+    "description": "Knowledge of magical creatures, areas, and traditions. \nSpecialties: creatures, magical traditions, regiones. (Arcane)",
+    "source": "ArM5",
+    "page": 66,
+    "defaultChaAb": "int",
+    "speciality": "",
+    "xp": 0,
+    "key": "magicLore",
+    "option": "",
+    "realm": "magic",
+    "indexKey": "magic-lore"
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.2.2.15",
+    "coreVersion": "11.311",
+    "createdTime": 1662235751867,
+    "modifiedTime": 1696140814633,
+    "lastModifiedBy": "1JBSgWiiwizu7vru"
+  },
+  "folder": "Ku86xoVh78FXIgLr",
+  "_id": "DWZEyyfxbnSJRzZP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "1JBSgWiiwizu7vru": 3
+  },
+  "_key": "!items!DWZEyyfxbnSJRzZP"
+}
