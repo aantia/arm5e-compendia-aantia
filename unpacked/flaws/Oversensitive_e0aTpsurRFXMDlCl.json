@@ -12,7 +12,7 @@
     }
   },
   "system": {
-    "description": "Something \tthat \tothers \tfind \tmerely unpleasant you consider intolerable. Examples might include an oversensitivity to disrespect, to slovenliness, or to impiety. If you are the violent type, you may start fights with those who offend you.",
+    "description": "Something   that   others   find   merely unpleasant you consider intolerable. Examples might include an oversensitivity to disrespect, to slovenliness, or to impiety. If you are the violent type, you may start fights with those who offend you.",
     "source": "ArM5",
     "page": 57,
     "type": "personality",
