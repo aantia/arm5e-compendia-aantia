@@ -171,7 +171,7 @@ files.forEach(file => {
     // Match the name and type of the virtue
     var name = virtue.name.replace(/\s*\(.*\)\s*/g, '');
     var type = virtue.system.type;
-    var impact = flaw.system.impact.value;
+    var impact = virtue.system.impact.value;
     
   } catch (error) {
     console.log(error)
