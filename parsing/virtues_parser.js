@@ -41,7 +41,7 @@ class Virtue {
 const text = readFileSync('./inputs/virtues.txt', 'utf8');
 
 // Define the regex pattern
-const regex = /^[A-Z][A-Z\s()-\*]+\n([\s\S]+?)(?=\n[A-Z][A-Z\s()-\*]+\n|$(?![\r\n]))/gm;
+const regex = /^[A-Z][A-Z\s()\-\*]+\n([\s\S]+?)(?=\n[A-Z][A-Z\s()\-\*]+\n|$(?![\r\n]))/gm;
 
 // Split the text into sections
 const sections = text.match(regex);
