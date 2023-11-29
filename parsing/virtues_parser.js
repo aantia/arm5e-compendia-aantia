@@ -41,7 +41,7 @@ class Virtue {
 const text = readFileSync('./inputs/virtues.txt', 'utf8');
 
 // Define the regex pattern
-const regex = /^[A-Z][A-Z\s()]+\n([\s\S]+?)(?=\n[A-Z][A-Z\s()]+\n|$(?![\r\n]))/gm;
+const regex = /^[A-Z][A-Z\s()-\*]+\n([\s\S]+?)(?=\n[A-Z][A-Z\s()-\*]+\n|$(?![\r\n]))/gm;
 
 // Split the text into sections
 const sections = text.match(regex);
@@ -68,7 +68,7 @@ for (const section of virtueSections) {
   name = name.replace(/(\w)(\w*)/g, (_, first, rest) => first.toUpperCase() + rest.toLowerCase());
 
   // Extract the virtue type
-  const types = lines[1].trim().split(', ');
+  const types = lines[1].trim().split(/, | or | and /);
 
   // Extract the virtue description
   let description = lines.slice(2).join(' ').trim();
@@ -76,8 +76,12 @@ for (const section of virtueSections) {
   description = description.replace(/^\s*\n/gm, '');
   // Remove any carriage returns
   description = description.replace(/\s*\r\s*/gm, ' ');
-  // Remove any lines with just numbers
+  // Replace any tabs with double space
+  description = description.replace(/\t/gm, '  ');
+  // Remove any lines with just numbers (page numbers)
   description = description.replace(/^\d+\n/gm, '');
+  // Remove any lines with 'Ars Magica Fifth Edition' - these are footers
+  description = description.replace(/^\s*Ars Magica Fifth Edition\s*$/gm, '');
 
   // Create the virtue object
   let virtue = new Virtue(name, types, description);
@@ -165,8 +169,9 @@ files.forEach(file => {
     var virtue = JSON.parse(readFileSync(filePath, 'utf8'));
   
     // Match the name and type of the virtue
-    var name = virtue.name;
+    var name = virtue.name.replace(/\s*\(.*\)\s*/g, '');
     var type = virtue.system.type;
+    var impact = flaw.system.impact.value;
     
   } catch (error) {
     console.log(error)
@@ -174,8 +179,8 @@ files.forEach(file => {
   }
 
   // Find the corresponding virtue details
-  const virtueDetails = getVirtueDetails(name, type);
-  console.log(virtueDetails)
+  const virtueDetails = getVirtueDetails(name, type, impact);
+  console.log(name, type, impact)
 
   // Copy the description to the virtue JSON file
   if (virtueDetails) {
@@ -185,9 +190,11 @@ files.forEach(file => {
 });
 
 // Function to get the virtue details based on name and type
-function getVirtueDetails(name, type) {
+function getVirtueDetails(name, type, impact) {
   // Return the virtue details object if found, or null if not found
-  const virtue = virtues.find(virtue => virtue.name.toLowerCase() === name.toLowerCase() && virtue.type.some(t => t.toLowerCase() === type.toLowerCase()));
+  const virtue = virtues.find(virtue => virtue.name.toLowerCase() === name.toLowerCase() 
+    && virtue.type.some(t => t.toLowerCase() === type.toLowerCase())
+    && virtue.type.some(t => t.toLowerCase() === impact.toLowerCase()));
   //console.log(virtue)
   return virtue?.description;
 }

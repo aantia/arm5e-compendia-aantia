@@ -41,7 +41,7 @@ class Flaw {
 const text = readFileSync('./inputs/flaws.txt', 'utf8');
 
 // Define the regex pattern
-const regex = /^[A-Z][A-Z\s()-]+\n([\s\S]+?)(?=\n[A-Z][A-Z\s()-]+\n|$(?![\r\n]))/gm;
+const regex = /^[A-Z][A-Z\s()-\*]+\n([\s\S]+?)(?=\n[A-Z][A-Z\s()-\*]+\n|$(?![\r\n]))/gm;
 
 // Split the text into sections
 const sections = text.match(regex);
@@ -76,8 +76,12 @@ for (const section of flawSections) {
   description = description.replace(/^\s*\n/gm, '');
   // Remove any carriage returns
   description = description.replace(/\s*\r\s*/gm, ' ');
-  // Remove any lines with just numbers
+  // Replace any tabs with double space
+  description = description.replace(/\t/gm, '  ');
+  // Remove any lines with just numbers (page numbers)
   description = description.replace(/^\d+\n/gm, '');
+  // Remove any lines with 'Ars Magica Fifth Edition' - these are footers
+  description = description.replace(/^\s*Ars Magica Fifth Edition\s*$/gm, '');
 
   // Create the flaw object
   let flaw = new Flaw(name, types, description);
